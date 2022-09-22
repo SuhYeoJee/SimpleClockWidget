@@ -1,7 +1,9 @@
 # SimpleClockWidget
-unity toyproject - simple clock widget for android
+~unity~ toyproject - simple clock widget for android
 
-유니티 에디터 버전 2020.3.26f1 사용
+~유니티 에디터 버전 2020.3.26f1 사용~
+기능이 단순하고 복잡한 연산을 사용하지 않기때문에 안드로이드 스튜디오를 사용하기로 함. 
+~유니티의 안드로이드 빌드 기능은 다음에 연습해보는걸로..~
 
 제작 동기  
 : 생활계획표 작성 후 휴대폰 첫 화면에 위젯기능을 활용해 띄워놓기를 희망함.  
